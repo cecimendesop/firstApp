@@ -19,9 +19,9 @@ def main(page: ft.Page):
             if datetime.today().month < data_nascimento.month:
                 idade = idade - 1
             if int(idade) >= 18:
-                txt_resultado.value = f'Maior de idade'
+                txt_resultado.value = f'Maior de idade, você tem {idade} anos'
             else:
-                txt_resultado.value = f'Menor de idade'
+                txt_resultado.value = f'Menor de idade, você tem {idade} anos'
             page.update()
         except ValueError:
             return 'Insira atributos válidos'
