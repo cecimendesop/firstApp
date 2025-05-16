@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6c973a80-9874-483e-b4df-f4f20d71e2c1" name="Changes" comment="uwwr6ue5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/24-04/ex2.py" beforeDir="false" afterPath="$PROJECT_DIR$/24-04/ex2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +97,13 @@
       <workItem from="1743770204209" duration="4129000" />
       <workItem from="1745499286670" duration="13647000" />
       <workItem from="1745577523975" duration="2923000" />
-      <workItem from="1746788120472" duration="1372000" />
+      <workItem from="1746788120472" duration="2782000" />
+      <workItem from="1746796602014" duration="3092000" />
+      <workItem from="1747308212977" duration="390000" />
+      <workItem from="1747314624236" duration="66000" />
+      <workItem from="1747398856034" duration="59000" />
+      <workItem from="1747399101255" duration="218000" />
+      <workItem from="1747401249109" duration="27000" />
     </task>
     <task id="LOCAL-00001" summary="uwwr6ue5">
       <option name="closed" value="true" />
@@ -140,7 +145,23 @@
       <option name="project" value="LOCAL" />
       <updated>1745522440000</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="uwwr6ue5">
+      <option name="closed" value="true" />
+      <created>1746790585963</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1746790585963</updated>
+    </task>
+    <task id="LOCAL-00007" summary="uwwr6ue5">
+      <option name="closed" value="true" />
+      <created>1746790772727</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1746790772727</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,7 +187,7 @@
     <SUITE FILE_PATH="coverage/firstApp$ex1_1.coverage" NAME="ex1.1 Coverage Results" MODIFIED="1746789045913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/24-04" />
     <SUITE FILE_PATH="coverage/firstApp$navbar1.coverage" NAME="navbar1 Coverage Results" MODIFIED="1743184146088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/firstApp$ex4.coverage" NAME="ex4 Coverage Results" MODIFIED="1743771797483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/firstApp$ex2.coverage" NAME="ex2 Coverage Results" MODIFIED="1746788258283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/24-04" />
+    <SUITE FILE_PATH="coverage/firstApp$ex2.coverage" NAME="ex2 Coverage Results" MODIFIED="1746808488390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/24-04" />
     <SUITE FILE_PATH="coverage/firstApp$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1745503362992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/24-04" />
     <SUITE FILE_PATH="coverage/firstApp$navbar2.coverage" NAME="navbar2 Coverage Results" MODIFIED="1743184338616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/firstApp$appbar2.coverage" NAME="appbar2 Coverage Results" MODIFIED="1743770768164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
